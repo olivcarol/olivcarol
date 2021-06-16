@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=&fontSize=50&descAlign=100)
 <h1 align='center'>
-Hello! I'm Carol <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hello! I'm Carol <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :cherry_blossom:
 </h1>
 
 <p align='center'>

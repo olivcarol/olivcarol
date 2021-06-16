@@ -8,10 +8,13 @@ Hello! I'm Carol <img src="https://raw.githubusercontent.com/MartinHeinz/MartinH
   <a href="https://www.linkedin.com/in/acoliveira20/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/a.oliveiracarol">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
   
 </p>
 
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:anacoliveira20@gmail.com'>anacoliveira20@gmail.com</a>
+  📫 You can reach me here: <a href='mailto:anacoliveira20@gmail.com'>anacoliveira20@gmail.com</a>
 </p>
